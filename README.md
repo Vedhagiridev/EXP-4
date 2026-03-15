@@ -35,19 +35,23 @@ PROCEDURE:
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
 CIRCUIT DIAGRAMS
-
-Half wave rectifier with filter:
-
+Half wave rectifier without filter:
+![alt text](image.png)
+![alt text](image-1.png)
 Bridge rectifier with filter:
-
+![alt text](image-2.png)
+![alt text](image-3.png)
+without filter:
+![alt text](image-4.png)
+![alt text](image-5.png)
+with filter:
+![alt text](image-6.png)
+![alt text](image-7.png)
 TABULAR COLUMN
-Rectifier without filter
+Rectifier without filter:
+![alt text](image-8.png)
 TABULAR COLUMN
 Rectifier with filter
-
-WAVEFORM:
-
-
+![alt text](image-9.png)
 RESULT:
-
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
