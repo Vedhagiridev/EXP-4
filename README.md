@@ -53,5 +53,8 @@ Rectifier without filter:
 TABULAR COLUMN
 Rectifier with filter
 ![alt text](image-9.png)
+Waceform:
+![alt text](<Screenshot 2026-02-23 144111.png>)
+![alt text](image-10.png)
 RESULT:
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
